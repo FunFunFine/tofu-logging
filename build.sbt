@@ -1,9 +1,3 @@
-import Dependencies.collectionCompat
-import Dependencies.kindProjector
-import Dependencies.betterMonadicFor
-import Dependencies.Version
-import Dependencies.minorVersion
-import Dependencies.scalatest
 import Publish._
 import Dependencies._
 import com.typesafe.sbt.SbtGit.git
